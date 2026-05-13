@@ -96,10 +96,3 @@ http://localhost:8501
 - Optional ROUGE scoring against a reference summary
 - Diacritics (tashkeel) are automatically removed before processing
 
----
-
-## ⚠️ Limitations
-
-- The model is trained on Arabic **news articles** only
-- Short or casual Arabic text will produce irrelevant summaries
-- Best results with articles of at least 3–4 sentences
