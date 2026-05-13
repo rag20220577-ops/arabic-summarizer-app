@@ -6,6 +6,7 @@ An end-to-end Arabic text summarization system using a **Seq2Seq Bidirectional L
 
 ## 🗂️ Project Structure
 arabic-summarizer-app
+
 ├── finalllnlp.ipynb        
 ├── app.py                  
 └── requirements.txt  
